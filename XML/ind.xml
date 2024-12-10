@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<node name="практика/">
+  <node name="edu.pyoop/">
+    <node name="edu.pyoop.code-workspace"/>
+    <node name="LICENSE"/>
+    <node name="pyproject.toml"/>
+    <node name="README.md"/>
+    <node name="src/">
+      <node name="task1.py"/>
+      <node name="task10.py"/>
+      <node name="task11.py"/>
+      <node name="task12.py"/>
+      <node name="task2.py"/>
+      <node name="task3.py"/>
+      <node name="task4.py"/>
+      <node name="task5.py"/>
+      <node name="task6.py"/>
+      <node name="task7.py"/>
+      <node name="task8.py"/>
+      <node name="task9.py"/>
+    </node>
+    <node name="tests/">
+      <node name="test_task1.py"/>
+      <node name="test_task10.py"/>
+      <node name="test_task11.py"/>
+      <node name="test_task12.py"/>
+      <node name="test_task2.py"/>
+      <node name="test_task3.py"/>
+      <node name="test_task4.py"/>
+      <node name="test_task5.py"/>
+      <node name="test_task6.py"/>
+      <node name="test_task7.py"/>
+      <node name="test_task8.py"/>
+      <node name="test_task9.py"/>
+    </node>
+    <node name="uv.lock"/>
+  </node>
+  <node name="OOP.code-workspace"/>
+  <node name="OOP_1/">
+    <node name="LICENSE"/>
+    <node name="poetry.lock"/>
+    <node name="program/">
+      <node name="ind_1.py"/>
+      <node name="ind_2.py"/>
+      <node name="pr_1.py"/>
+    </node>
+    <node name="pyproject.toml"/>
+    <node name="README.md"/>
+    <node name="Отчет/">
+      <node name="Lab_1.pdf"/>
+    </node>
+  </node>
+  <node name="OOP_2/">
+    <node name="LICENSE"/>
+    <node name="poetry.lock"/>
+    <node name="program/">
+      <node name="ind_1.py"/>
+      <node name="ind_2.py"/>
+      <node name="prim.py"/>
+    </node>
+    <node name="pyproject.toml"/>
+    <node name="README.md"/>
+    <node name="Отчет/">
+      <node name="Lab_2.pdf"/>
+    </node>
+  </node>
+  <node name="OOP_3/">
+    <node name="LICENSE"/>
+    <node name="poetry.lock"/>
+    <node name="program/">
+      <node name="ind_1.py"/>
+      <node name="ind_2.py"/>
+      <node name="prim_2.py"/>
+      <node name="prim_3.py"/>
+      <node name="task.py"/>
+    </node>
+    <node name="pyproject.toml"/>
+    <node name="README.md"/>
+    <node name="workers.log"/>
+    <node name="Отчет/">
+      <node name="Lab_3.pdf"/>
+    </node>
+  </node>
+  <node name="OOP_4/">
+    <node name="app.log"/>
+    <node name="json/">
+      <node name="fe.json"/>
+      <node name="fi.json"/>
+      <node name="fi_invalid.json"/>
+    </node>
+    <node name="LICENSE"/>
+    <node name="poetry.lock"/>
+    <node name="pyproject.toml"/>
+    <node name="README.md"/>
+    <node name="src/">
+      <node name="ind_1.py"/>
+      <node name="prim.py"/>
+      <node name="task_1.py"/>
+      <node name="task_2.py"/>
+    </node>
+    <node name="tests/">
+      <node name="test_ind_1.py"/>
+      <node name="test_prim.py"/>
+      <node name="test_task_1.py"/>
+      <node name="test_task_2.py"/>
+    </node>
+    <node name="workers.log"/>
+    <node name="XML/">
+      <node name="file.xml"/>
+    </node>
+  </node>
+  <node name="OOP_5/">
+    <node name="LICENSE"/>
+    <node name="poetry.lock"/>
+    <node name="pyproject.toml"/>
+    <node name="README.md"/>
+    <node name="src/">
+      <node name="ind.py"/>
+    </node>
+    <node name="tests/">
+      <node name="test_ind.py"/>
+    </node>
+  </node>
+  <node name="OOP_6/">
+    <node name="LICENSE"/>
+    <node name="poetry.lock"/>
+    <node name="pyproject.toml"/>
+    <node name="README.md"/>
+    <node name="src/">
+      <node name="ind.py"/>
+    </node>
+    <node name="tests/">
+      <node name="test_ind.py"/>
+    </node>
+    <node name="XML/">
+      <node name="ind.xml"/>
+    </node>
+  </node>
+</node>
